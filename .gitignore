@@ -12,3 +12,4 @@ local_settings.py
 lancer
 old_proj_dbe
 __pycache__
+*.csv
